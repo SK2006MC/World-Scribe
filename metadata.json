@@ -1,0 +1,6 @@
+{
+  "name": "WorldScribe",
+  "description": "An interactive world and live story simulator that lets you conjure, export, and explore dynamic realms built like responsive lego bricks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
